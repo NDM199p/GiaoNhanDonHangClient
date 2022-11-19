@@ -1,0 +1,47 @@
+.my-title-form {
+  color: #f26522;
+  position: relative;
+  font-size: 16px;
+  font-weight: 700;
+  height: 24px;
+  margin-left: -8px;
+  margin-bottom: 0;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* .my-title-form::after {
+  position: absolute;
+  left: -10px;
+  top: 5px;
+  content: "";
+  width: 4px;
+  height: 80%;
+  background-color: #f26522;
+} */
+
+label {
+  color: #4b4b4b;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+h3 {
+}
+
+.form-control,
+.form-select,
+input {
+  color: #5c6873;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.form-control:focus {
+  outline: none;
+  box-shadow: none;
+}

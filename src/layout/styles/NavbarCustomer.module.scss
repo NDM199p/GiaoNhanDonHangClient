@@ -1,0 +1,15 @@
+.NavbarCustomer {
+  width: 260px;
+  height: 100vh;
+  z-index: 1;
+  background-color: #00467f;
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .list-group-item {
+    background: none;
+  }
+}

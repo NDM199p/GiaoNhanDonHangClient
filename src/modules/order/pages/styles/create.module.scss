@@ -1,0 +1,11 @@
+.loading {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: black;
+  z-index: 1000;
+  opacity: 0.3;
+  justify-content: center;
+  align-items: center;
+}
